@@ -13,3 +13,9 @@ Senior High School: Jose C. Feliciano College Foundation
 High School: Camachiles National High School
 
 Elementary: Dau Elementary School
+
+## My Projects
+
+- Midterm Lab Task 1:
+
+- Midterm Lab Task 2:
