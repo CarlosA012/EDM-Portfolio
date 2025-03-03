@@ -21,9 +21,7 @@
 
 ![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/4d8bf6e85ebf04b82c25ffd31b1a0b975a49d5fb/Midterm%20Lab%20Task%201/imagess/cleandata.png)
 
-# Normalization
-
-after cleaning the data, the next step is normalize it and this is the screenshot of normalize data
+# Step 5 Screenshot of Normalize data of Cleaning data
 
 ![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/ca10b6b501c1032535417740be3eec9ab216ba93/Midterm%20Lab%20Task%201/imagess/normalizedata.png)
 
