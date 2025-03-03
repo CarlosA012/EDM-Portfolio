@@ -12,3 +12,5 @@
 - Perform Table Split using 2NF
 - Then perform 3NF to remove the duplicates
 - After that make ERD
+
+# Step 3 Screenshot before data cleaning
