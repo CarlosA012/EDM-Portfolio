@@ -15,5 +15,6 @@
 
 # Step 3 Screenshot before data cleaning
 
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/4b27bba5266fbb5345751768addf64114b48d5a1/Midterm%20Lab%20Task%201/imagess/rawdata.png)
 
 
