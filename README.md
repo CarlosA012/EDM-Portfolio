@@ -16,6 +16,6 @@ Hi I am Carlos Miguel Aguinaldo and I am currently 1st year taking BS Infromatio
 
 ## My Projects
 
-- Midterm Lab Task 1: https://github.com/CarlosA012/EDM-Portfolio/tree/main/Midterm%20Lab%20Task%201/imagess 
+- Midterm Lab Task 1: [https://github.com/CarlosA012/EDM-Portfolio/tree/main/Midterm%20Lab%20Task%201/imagess ](https://github.com/CarlosA012/EDM-Portfolio/blob/8c10adcd6fa87dd34a5b2e87407eadc83d6ee073/Midterm%20Lab%20Task%201/README.md)
 
 - Midterm Lab Task 2:
