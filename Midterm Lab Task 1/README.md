@@ -23,7 +23,7 @@
 
 # Step 5 Screenshot of ERD after normalizing the data
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/ca10b6b501c1032535417740be3eec9ab216ba93/Midterm%20Lab%20Task%201/imagess/normalizedata.png)
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/20a03805da95ddbf684e5181f9315661a79cad1b/Midterm%20Lab%20Task%201/imagess/ERD.png)
 
 
 
