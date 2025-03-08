@@ -90,7 +90,7 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 ## Screenshots of Queries
 - Screenshots:
 
-![image alt]()
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/698ee43bae1a9b9620eaea30577239605f91ea89/Midterm%20Lab%20Task%202/images/Sal%20By%20Role%20Type%20dup.png)
 
 ![image alt]()
 
