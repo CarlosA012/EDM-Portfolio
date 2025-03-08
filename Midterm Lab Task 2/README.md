@@ -96,7 +96,7 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 
 ![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/f6f45e254037e154bd73dc3682335a071f53bf07/Midterm%20Lab%20Task%202/images/Sal%20By%20State%20ref.png)
 
-![image alt]()
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/84fdb949a7038628c4f36222420aa3039f0cc3da/Midterm%20Lab%20Task%202/images/Unclean%20DS%20Jobs.png)
 
 ![image alt]()
 
