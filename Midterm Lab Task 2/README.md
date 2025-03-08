@@ -32,4 +32,10 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 
 ## Screenshots
 
+- Before Cleaning
+
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/5528199dcd6c8022b6bd97167e4a797b7e081f6f/Midterm%20Lab%20Task%202/images/raw%20data.png)
+
+- After Cleaning
+
 ![image alt]()
