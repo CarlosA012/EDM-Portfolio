@@ -88,4 +88,16 @@ This portfolio contains the steps I followed for cleaning, transforming, and res
 - Uncleaned DS Jobs: Raw dataset used for transformations.
 
 ## Screenshots of Queries
-Insert screenshots for:
+- Screenshots:
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
