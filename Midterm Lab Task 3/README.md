@@ -21,4 +21,8 @@
 
 # Salary By Role Screenshot
 
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/4a15785c927c67712ccbaac736ca97766874fac1/Midterm%20Lab%20Task%203/images/Sal%20by%20role%20pic.png)
+
+# Salary By State Screenshot
+
 ![image alt]()
