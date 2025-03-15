@@ -19,10 +19,9 @@
 - Insert Slicers for: Role Type, Company Size, State.
 - Insert Map (Optional).
 
-# Dashboards
+# Dashboard
 
-![image alt]()
-
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/85b46734c15ed65d9934b4a58b0604a911468b3e/Midterm%20Lab%20Task%203/images/dashboard.png)
 
 # Salary By Role Screenshot
 
