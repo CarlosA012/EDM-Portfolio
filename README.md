@@ -2,8 +2,6 @@
 This is my Enterprise Data Management Portfolio in EDM
 ## About Me
 
-![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/61450f549a15cd5d145af851d1dfef3100b8fea1/482802335_2383223738693044_6261198088451238404_n.jpg)
-
 Hi I am Carlos Miguel Aguinaldo and I am currently 1st year taking BS Infromation System course. I'm beginner when it comes to computer and coding but I am still learning and want to improve my computer skills.
 
 ## Education
