@@ -2,7 +2,7 @@
 - Use the Worksheet on Uncleaned DS Jobs and Transform Tables
 - Analyze Salary Data
 - Salary by Role
-- Salary by State
+- Count by State
 - Salary by Company Size
 
 # Step 2
@@ -23,6 +23,6 @@
 
 ![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/4a15785c927c67712ccbaac736ca97766874fac1/Midterm%20Lab%20Task%203/images/Sal%20by%20role%20pic.png)
 
-# Salary By State Screenshot
+# Count By State Screenshot
 
-![image alt]()
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/2fbae5c19e9aac9a5513d9135034cbae35f01e1a/Midterm%20Lab%20Task%203/images/Count%20by%20size.png)
