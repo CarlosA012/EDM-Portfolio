@@ -45,4 +45,4 @@
 
 # Map Screenshot
 
-![image alt]()
+![image alt](https://github.com/CarlosA012/EDM-Portfolio/blob/02fad435c8638c7d06984b5e8e86fb38d4672c34/Midterm%20Lab%20Task%203/images/Map.png)
