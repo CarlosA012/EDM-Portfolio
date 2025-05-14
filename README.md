@@ -27,7 +27,7 @@ Hi I am Carlos Miguel Aguinaldo and I am currently 1st year taking BS Infromatio
 
 ## Finals Projects
 
-- Finals Lab Task 1: [Create database using MySQL Workbench](https://github.com/CarlosA012/Finals-Lab-Task-1.git)
+- Finals Lab Task 1: [Create database using MySQL Workbench](https://carlosa012.github.io/Finals-Lab-Task-1/)
   
 - Finals Lab Task 2: [Transform ER into Relational Tables](https://github.com/CarlosA012/Finals-Lab-Task-2)
   
