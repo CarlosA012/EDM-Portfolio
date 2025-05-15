@@ -31,4 +31,4 @@ Hi I am Carlos Miguel Aguinaldo and I am currently 1st year taking BS Infromatio
   
 - Finals Lab Task 2: [Transform ER into Relational Tables](https://carlosa012.github.io/Finals-Lab-Task-2/)
   
-- Finals Lab Task 3: [Table Manipulation](https://github.com/CarlosA012/Finals-Lab-Task-3)
+- Finals Lab Task 3: [Table Manipulation](https://carlosa012.github.io/Finals-Lab-Task-3/)
