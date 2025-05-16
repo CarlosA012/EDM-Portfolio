@@ -18,9 +18,9 @@ Hi I am Carlos Miguel Aguinaldo and I am currently 1st year taking BS Infromatio
 
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://carlosa012.github.io/Midterm-Lab-Task-1/)
 
-- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/CarlosA012/EDM-Portfolio/tree/main/Midterm%20Lab%20Task%202)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://carlosa012.github.io/Midterm-Lab-Task-2/)
 
-- Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/CarlosA012/EDM-Portfolio/tree/main/Midterm%20Lab%20Task%203)
+- Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://carlosa012.github.io/Midterm-Lab-Task-3/)
 
 - Excels: [Excels files](https://github.com/CarlosA012/EDM-Portfolio/tree/main/Excels)
 
