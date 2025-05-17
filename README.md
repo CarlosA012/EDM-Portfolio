@@ -35,4 +35,4 @@ Hi I am Carlos Miguel Aguinaldo and I am currently 1st year taking BS Infromatio
 
 - Finals Lab Task-3.1: [Using MYSQL CLAUSE step by step](https://carlosa012.github.io/Finals-Lab-Task-3.1/)
 
-- Finals Lab Task 5: []()
+- Finals Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions]()
